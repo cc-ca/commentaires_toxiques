@@ -1,6 +1,6 @@
 # Commentaires toxiques
-Ce projet vise à classer la toxicité de commentaires issus de Kaggle du "Toxic Comment Clasification Challenge"
-ces commentaires doivent être classés sur 6 catégories : toxic, severe_toxic, obscene, threat, insult, identity_hate.
+Ce projet vise à classer la toxicité de commentaires issus de Kaggle du "Toxic Comment Classification Challenge".
+Ces commentaires doivent être classés sur 6 catégories : toxic, severe_toxic, obscene, threat, insult, identity_hate.
 
 # Utilisation
 Le notebook final se trouve dans la branche main.
