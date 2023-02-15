@@ -1,8 +1,8 @@
-# commentaires toxiques
+# Commentaires toxiques
 Ce projet vise à classer la toxicité de commentaires issus de Kaggle du "Toxic Comment Clasification Challenge"
 ces commentaires doivent etre classé sur 6 catégories : toxic, severe_toxic, obscene, threat, insult, identity_hate.
 
-# utilisation
+# Utilisation
 Le notebook final se trouve dans la branche main.
 Une fois que les données Kaggle sont téléchargées dans un google drive il suffit d'ouvrir le notebook présent dans la branche "main" avec Google Collab.
 
